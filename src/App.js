@@ -32,7 +32,7 @@ const Titulo = styled.h1`
 
 export default function App() {
   // frase inicial
-  const Frase = "Do you wanna play a game?";
+  const Frase = "koe";
   // frase separada
   const Separada = Frase.split("");
   console.log(Separada);
